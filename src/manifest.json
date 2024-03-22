@@ -2,7 +2,8 @@
   "name": "React_APP",
   "author": {
     "name": "neteleven",
-    "email": "zendesk@neteleven.de"
+    "email": "zendesk@neteleven.de",
+    "url": ""
   },
   "defaultLocale": "en",
   "private": true,
